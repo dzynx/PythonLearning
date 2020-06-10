@@ -47,3 +47,31 @@ W programie utwórz funkcję dla każdego konwertera.
 
 Dzień Dziecka: wymyśl jakieś zadanie dla mnie ;)
 
+**Dzień 7. 2.06.2020**
+
+Przerób ostatnie zadanie tak aby funkcje nie robiły printa tylko wynik przekazywały do funkcji drukuj wynik która ma nagłówek typu def drukujWynik(float wartość1, string jednostka1, float wartość2, string jednostka2)
+
+**Dzień 8. 3.06.2020**
+
+Dwa zadania:
+1. Given a string and a non-negative int n, return a larger string that is n copies of the original string.
+
+string_times('Hi', 2) → 'HiHi'
+
+string_times('Hi', 3) → 'HiHiHi'
+
+string_times('Hi', 1) → 'Hi'
+
+Use this function signature:
+def string_times(str, n):
+
+2. Given a string and a non-negative int n, we'll say that the front of the string is the first 3 chars, or whatever is there if the string is less than length 3. Return n copies of the front;
+
+front_times('Chocolate', 2) → 'ChoCho'
+
+front_times('Chocolate', 3) → 'ChoChoCho'
+
+front_times('Abc', 3) → 'AbcAbcAbc'
+
+Use this function signature:
+def front_times(str, n):
