@@ -76,15 +76,15 @@ front_times('Abc', 3) → 'AbcAbcAbc'
 Use this function signature:
 def front_times(str, n):
 
-** Dzień 9. 4.06.2020 **
+**Dzień 9. 4.06.2020**
 
 Napisz program który wczyta Twoje imię jako string z konsoli a następnie wykorzystując buzzer z płyty głównej wypika alfabetem morsa to imię.
 
-** Dzień 10. 5.06.2020 **
+**Dzień 10. 5.06.2020**
 
 Stwórz program, który wykorzysta programy lotto, konwerter jednostek, mors jako funkcje i pozwoli na początku wybrać z czego chcemy skorzystać. Program będzie powtarzać swoje działanie do czasu wybrania 0 z menu.
 
-** Dzień 11. 6.06.2020 **
+**Dzień 11. 6.06.2020**
 
 Użytkownik wprowadza pełne zdanie albo więcej. Program ma wyświetlić statystyki występowania poszczególnych liter w tym zdaniu np:
 a: 27 razy (3,45%)
@@ -92,15 +92,15 @@ b: 4 razy (x%).... itd itd
 
 Zdanie może być zahardcodowane w programie albo uzytkownik wprowadza z palca (może też być wczytywane z pliku) :D
 
-** Dzień 12. 7.06.2020 **
+**Dzień 12. 7.06.2020**
 
 Do zadania z dnia 11. wprowadź możliwość wczytywania zdania z pliku. Plik "slowa.txt" ma znajdować się obok pliku wynonywalnego, zaś wynik ma być wpisany do pliku wyniki.txt, w konsoli ma się pojawić tylko informacja, że zadanie zostało wykonane i wynik jest w pliku o nazwie... itd.
 
-** Dzień 13. 8.06.2020 **
+**Dzień 13. 8.06.2020**
 
 Dodaj zadanie z dni 11 i 12 do programu 10.
 
-** Dzień 14. 9.06.2020 **
+**Dzień 14. 9.06.2020**
 
 Given an array of ints, return True if 6 appears as either the first or last element in the array. The array will be length 1 or more.
 
@@ -112,7 +112,7 @@ Start with:
 
 def first_last6(nums):
 
-** Dzień 15. 10.06.2020 **
+**Dzień 15. 10.06.2020**
 
 Given an array of ints length 3, return the sum of all the elements.
 
@@ -123,7 +123,7 @@ sum3([7, 0, 0]) → 7
 Start with:
 def sum3(nums):
 
-** Dzień 16. 11.06.2020 **
+**Dzień 16. 11.06.2020**
 
 Given an array of ints, return a new array length 2 containing the first and last elements from the original array. The original array will be length 1 or more.
 
